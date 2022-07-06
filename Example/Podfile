@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'RxOneWay_Example' do
+  pod 'RxOneWay', :path => '../'
+
+  target 'RxOneWay_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
