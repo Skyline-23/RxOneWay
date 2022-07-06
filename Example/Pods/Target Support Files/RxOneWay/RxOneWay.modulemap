@@ -1,0 +1,6 @@
+framework module RxOneWay {
+  umbrella header "RxOneWay-umbrella.h"
+
+  export *
+  module * { export * }
+}

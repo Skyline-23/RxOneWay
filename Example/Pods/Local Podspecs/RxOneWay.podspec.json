@@ -1,0 +1,22 @@
+{
+  "name": "RxOneWay",
+  "version": "0.1.0",
+  "summary": "A short description of RxOneWay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Skyline-23/RxOneWay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Skyline-23": "bs2740@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/Skyline-23/RxOneWay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RxOneWay/Classes/**/*"
+}

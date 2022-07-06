@@ -1,0 +1,16 @@
+PODS:
+  - RxOneWay (0.1.0)
+
+DEPENDENCIES:
+  - RxOneWay (from `../`)
+
+EXTERNAL SOURCES:
+  RxOneWay:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RxOneWay: 865f2f964e7f9fe29678609ab87964b01846224e
+
+PODFILE CHECKSUM: e041d4f10364316ddde53d30dfc8231698e2954d
+
+COCOAPODS: 1.11.3
